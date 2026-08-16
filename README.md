@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./light.png">
-  <img src="./light.png" alt="Naman Karna GitHub profile banner">
-</picture>
+<p align="center">
+  <img src="./animated-profile.gif" alt="Naman Karna animated GitHub profile banner" width="100%">
+</p>
 ---
 
 ## 📊 GitHub Stats
