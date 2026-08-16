@@ -8,16 +8,16 @@
   <circle cx="44" cy="42" r="7" fill="#EF4444"/>
   <circle cx="68" cy="42" r="7" fill="#F59E0B"/>
   <circle cx="92" cy="42" r="7" fill="#10B981"/>
-  <text x="590" y="47" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" fill="#94A3B8">profile.sh --live</text>
+  <text x="590" y="47" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" fill="#94A3B8">profile.sh --live</text>
 
   <!-- Portrait panel -->
   <rect x="40" y="86" width="425" height="482" rx="14" fill="#0A101F" stroke="#22D3EE" stroke-opacity=".18"/>
-  <text x="62" y="113" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#94A3B8">VISUAL.MAP</text>
+  <text x="62" y="113" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#94A3B8">VISUAL.MAP</text>
   <rect x="355" y="97" width="86" height="24" rx="12" fill="#10B981" fill-opacity=".13" stroke="#10B981" stroke-opacity=".45"/>
   <circle cx="369" cy="109" r="4" fill="#10B981">
     <animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/>
   </circle>
-  <text x="379" y="113" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#10B981">LIVE</text>
+  <text x="379" y="113" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#10B981">LIVE</text>
 
   <g id="portrait">
     <rect x="55" y="128" width="395" height="407" rx="10" fill="#0A101F"/>
@@ -39,32 +39,32 @@
     </path>
   </g>
 
-  <text x="62" y="557" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#64748B">DOT.MAP // 300 × 340 // DITHER.FS</text>
+  <text x="62" y="557" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#64748B">DOT.MAP // 300 × 340 // DITHER.FS</text>
 
   <!-- System info -->
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
-    <text x="500" y="110" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" fill="#94A3B8">SYSTEM.INFO</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
+    <text x="500" y="110" font-size="12" font-weight="700" fill="#94A3B8">SYSTEM.INFO</text>
     <line x1="500" y1="122" x2="1138" y2="122" stroke="#22D3EE" stroke-opacity=".18"/>
 
-    <text x="500" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Subject</text><text x="610" y="152" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="152" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">NAMAN KARNA</text>
-    <text x="500" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Role</text><text x="610" y="175" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="175" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Currently Exploring</text>
-    <text x="500" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Origin</text><text x="610" y="198" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="198" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Biratnagar, Nepal</text>
-    <text x="500" y="221" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Education</text><text x="610" y="221" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="221" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Computer Engineering @ IOE Purwanchal</text>
-    <text x="500" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Status</text><text x="610" y="244" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="244" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Building + Learning</text>
-    <text x="500" y="267" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">ToolChain</text><text x="610" y="267" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="267" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">VS Code, Git, Android Studio, Canva, Figma</text>
+    <text x="500" y="152" font-size="11" font-weight="500" fill="#94A3B8">Subject</text><text x="610" y="152" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="152" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">NAMAN KARNA</text>
+    <text x="500" y="175" font-size="11" font-weight="500" fill="#94A3B8">Role</text><text x="610" y="175" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="175" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Currently Exploring</text>
+    <text x="500" y="198" font-size="11" font-weight="500" fill="#94A3B8">Origin</text><text x="610" y="198" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="198" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Biratnagar, Nepal</text>
+    <text x="500" y="221" font-size="11" font-weight="500" fill="#94A3B8">Education</text><text x="610" y="221" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="221" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Computer Engineering @ IOE Purwanchal</text>
+    <text x="500" y="244" font-size="11" font-weight="500" fill="#94A3B8">Status</text><text x="610" y="244" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="244" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Building + Learning</text>
+    <text x="500" y="267" font-size="11" font-weight="500" fill="#94A3B8">ToolChain</text><text x="610" y="267" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="267" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">VS Code, Git, Android Studio, Canva, Figma</text>
 
-    <text x="500" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#22D3EE">CORE</text>
-    <text x="500" y="335" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Lang</text><text x="610" y="335" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="335" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">C, C++, JS, Python, TypeScript</text>
-    <text x="500" y="358" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Frontend</text><text x="610" y="358" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="358" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">HTML, CSS, JavaScript</text>
-    <text x="500" y="381" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Backend</text><text x="610" y="381" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="381" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Node.js, Django</text>
-    <text x="500" y="404" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Database</text><text x="610" y="404" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="404" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">MongoDB</text>
-    <text x="500" y="427" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Infra</text><text x="610" y="427" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="427" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Git</text>
+    <text x="500" y="310" font-size="12" fill="#22D3EE">CORE</text>
+    <text x="500" y="335" font-size="11" font-weight="500" fill="#94A3B8">Lang</text><text x="610" y="335" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="335" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">C, C++, JS, Python, TypeScript</text>
+    <text x="500" y="358" font-size="11" font-weight="500" fill="#94A3B8">Frontend</text><text x="610" y="358" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="358" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">HTML, CSS, JavaScript</text>
+    <text x="500" y="381" font-size="11" font-weight="500" fill="#94A3B8">Backend</text><text x="610" y="381" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="381" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Node.js, Django</text>
+    <text x="500" y="404" font-size="11" font-weight="500" fill="#94A3B8">Database</text><text x="610" y="404" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="404" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">MongoDB</text>
+    <text x="500" y="427" font-size="11" font-weight="500" fill="#94A3B8">Infra</text><text x="610" y="427" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="427" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Git</text>
 
-    <text x="500" y="470" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#22D3EE">GRID</text>
-    <text x="500" y="495" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Mail</text><text x="610" y="495" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="495" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">namankarna0@gmail.com</text>
-    <text x="500" y="518" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">Portfolio</text><text x="610" y="518" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="518" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">Coming soon</text>
-    <text x="500" y="541" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">LinkedIn</text><text x="610" y="541" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="541" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">linkedin.com/in/namankarna</text>
-    <text x="500" y="564" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">GitHub</text><text x="610" y="564" font-size="8" fill="#22D3EE" opacity=".45">·······················</text><text x="650" y="564" text-anchor="start" font-family="system-ui, -apple-system, "Segoe UI", Arial, sans-serif" font-size="12" font-weight="500" fill="#F8FAFC">@namankarna0</text>
+    <text x="500" y="470" font-size="12" fill="#22D3EE">GRID</text>
+    <text x="500" y="495" font-size="11" font-weight="500" fill="#94A3B8">Mail</text><text x="610" y="495" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="495" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">namankarna0@gmail.com</text>
+    <text x="500" y="518" font-size="11" font-weight="500" fill="#94A3B8">Portfolio</text><text x="610" y="518" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="518" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">Coming soon</text>
+    <text x="500" y="541" font-size="11" font-weight="500" fill="#94A3B8">LinkedIn</text><text x="610" y="541" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="541" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">linkedin.com/in/namankarna</text>
+    <text x="500" y="564" font-size="11" font-weight="500" fill="#94A3B8">GitHub</text><text x="610" y="564" font-size="10" fill="#22D3EE" opacity=".45">·······················</text><text x="1130" y="564" text-anchor="end" font-size="12" font-weight="500" fill="#F8FAFC">@namankarna0</text>
   </g>
 
 </svg>
