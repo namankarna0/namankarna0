@@ -1,17 +1,8 @@
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/namankarna0/namankarna0/main/dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/namankarna0/namankarna0/main/light.svg">
-    <img
-      alt="NAMAN KARNA"
-      src="https://raw.githubusercontent.com/namankarna0/namankarna0/main/light.svg">
-  </picture>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./light.png">
+  <img src="./light.png" alt="Naman Karna GitHub profile banner">
+</picture>
 ---
 
 ## 📊 GitHub Stats
