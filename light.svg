@@ -2,8 +2,8 @@
  width="1180" height="610" viewBox="0 0 1180 610" role="img">
 <defs>
   <linearGradient id="accent" x1="0" x2="1">
-    <stop offset="0" stop-color="#22d3ee"/>
-    <stop offset="1" stop-color="#a78bfa"/>
+    <stop offset="0" stop-color="#0891b2"/>
+    <stop offset="1" stop-color="#7c3aed"/>
   </linearGradient>
   <filter id="glow">
     <feGaussianBlur stdDeviation="3" result="b"/>
@@ -15,26 +15,26 @@
   <style>
     .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace; }
     .sans { font-family: system-ui,-apple-system,"Segoe UI",Arial,sans-serif; }
-    .label { font-size: 12px; fill: #94a3b8; font-weight: 600; letter-spacing: .04em; }
-    .value { font-size: 15px; fill: #f8fafc; font-weight: 500; }
-    .small { font-size: 12px; fill: #94a3b8; }
-    .section { font-size: 13px; fill: #22d3ee; font-weight: 700; letter-spacing: .08em; }
+    .label { font-size: 12px; fill: #475569; font-weight: 600; letter-spacing: .04em; }
+    .value { font-size: 15px; fill: #0f172a; font-weight: 500; }
+    .small { font-size: 12px; fill: #475569; }
+    .section { font-size: 13px; fill: #0891b2; font-weight: 700; letter-spacing: .08em; }
   </style>
   <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
-    <circle cx="2" cy="2" r="1" fill="#22d3ee" opacity=".13"/>
+    <circle cx="2" cy="2" r="1" fill="#0891b2" opacity=".13"/>
   </pattern>
 </defs>
 
-<rect width="1180" height="610" rx="24" fill="#07101c"/>
-<rect x="18" y="18" width="1144" height="574" rx="22" fill="#0b1424" stroke="#1e3a52"/>
-<rect x="30" y="30" width="1120" height="52" rx="16" fill="#0d182b" stroke="#1e3a52"/>
+<rect width="1180" height="610" rx="24" fill="#f8fafc"/>
+<rect x="18" y="18" width="1144" height="574" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+<rect x="30" y="30" width="1120" height="52" rx="16" fill="#f1f5f9" stroke="#cbd5e1"/>
 <circle cx="56" cy="56" r="6" fill="#fb7185"/>
 <circle cx="78" cy="56" r="6" fill="#fbbf24"/>
-<circle cx="100" cy="56" r="6" fill="#34d399"/>
-<text x="590" y="61" text-anchor="middle" class="mono" font-size="14" font-weight="600" fill="#94a3b8">profile.sh --live</text>
-<text x="1118" y="61" text-anchor="end" class="mono" font-size="12" fill="#34d399">● LIVE</text>
+<circle cx="100" cy="56" r="6" fill="#059669"/>
+<text x="590" y="61" text-anchor="middle" class="mono" font-size="14" font-weight="600" fill="#475569">profile.sh --live</text>
+<text x="1118" y="61" text-anchor="end" class="mono" font-size="12" fill="#059669">● LIVE</text>
 
-<rect x="42" y="102" width="460" height="466" rx="18" fill="#0d182b" stroke="#1e3a52"/>
+<rect x="42" y="102" width="460" height="466" rx="18" fill="#f1f5f9" stroke="#cbd5e1"/>
 <text x="62" y="130" class="mono section">VISUAL.MAP</text>
 <rect x="62" y="146" width="420" height="400" rx="14" fill="url(#dots)"/>
 
@@ -48,9 +48,9 @@
 <rect x="62" y="146" width="420" height="400" rx="14" fill="none" stroke="url(#accent)" opacity=".65"/>
 <text x="62" y="560" class="mono small">PHOTO.MAP // 720 × 720 // LIVE</text>
 
-<rect x="520" y="102" width="618" height="466" rx="18" fill="#0d182b" stroke="#1e3a52"/>
+<rect x="520" y="102" width="618" height="466" rx="18" fill="#f1f5f9" stroke="#cbd5e1"/>
 <text x="548" y="132" class="mono section">SYSTEM.INFO</text>
-<line x1="548" y1="148" x2="1110" y2="148" stroke="#1e3a52"/>
+<line x1="548" y1="148" x2="1110" y2="148" stroke="#cbd5e1"/>
 
 <text x="548" y="180" class="mono label">NAME</text>
 <text x="690" y="180" class="sans value">Naman Karna</text>
@@ -65,9 +65,9 @@
 <text x="548" y="335" class="mono label">OS</text>
 <text x="690" y="335" class="sans value">Arch Linux</text>
 <text x="548" y="366" class="mono label">STATUS</text>
-<text x="690" y="366" class="sans value" fill="#34d399">Building + Learning</text>
+<text x="690" y="366" class="sans value" fill="#059669">Building + Learning</text>
 
-<line x1="548" y1="390" x2="1110" y2="390" stroke="#1e3a52"/>
+<line x1="548" y1="390" x2="1110" y2="390" stroke="#cbd5e1"/>
 <text x="548" y="418" class="mono section">TOOLCHAIN</text>
 <text x="548" y="445" class="sans value" font-size="14">VS Code • Git • Android Studio • Canva • Figma</text>
 <text x="548" y="476" class="mono section">STACK</text>
