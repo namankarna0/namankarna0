@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./animated-profile.gif" alt="Naman Karna animated GitHub profile banner" width="100%">
+  <img src="./animated-profile-dither-morph.gif"
+       alt="Naman Karna animated dither morph profile banner"
+       width="100%">
 </p>
 ---
 
